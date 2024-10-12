@@ -1,0 +1,2 @@
+# GUI-based Train Ticket Buyer system
+ Humble Train Ticket Helper  Ever gotten lost in the maze of train schedules and ticket options? Our humble little app is here to save the day! We're a friendly, easy-to-use tool that helps you find the perfect train journey without all the hassle.  What can you expect?  Simple search: Just tell us where you're going and when, and we'll do the rest. Clear options: We'll show you a bunch of options, from fast and furious to slow and scenic. Easy booking: Grab your tickets in a jiffy with our secure checkout. Let's get rolling!
